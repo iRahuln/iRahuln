@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Student from Uka Tarsadia University<br><br>- 🔭 I’m working as Student<br>- 📚 I'm currently learning DevOps and Ethical Hacking<br>- ⚡ In my free time I learn new things in Ethical Hacking</p>
+<p align="left">I'm a Student from Uka Tarsadia University<br><br>- 🔭 I’m working as a Student<br>- 📚 I'm currently learning DevOps and Ethical Hacking<br>- ⚡ In my free time, I learn new things in Ethical Hacking</p>
 
 ###
 
